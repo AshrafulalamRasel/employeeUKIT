@@ -1,4 +1,4 @@
-export class ChiefComplains {
+export class EmployeeSignups {
   name?: string;
   email?: string;
   position?: string;
